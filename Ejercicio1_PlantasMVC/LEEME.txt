@@ -1,0 +1,4 @@
+EJERCICIO 1 - REGISTRO DE PLANTAS
+
+Importa esta carpeta como proyecto existente de Eclipse y ejecuta control.Main.
+Los registros se guardan en datos/plantas.txt. Requiere Java 21.

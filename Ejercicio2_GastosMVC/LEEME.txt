@@ -1,0 +1,4 @@
+EJERCICIO 2 - REGISTRO DE GASTOS DIARIOS
+
+Importa esta carpeta como proyecto existente de Eclipse y ejecuta control.Main.
+Los gastos se guardan en datos/gastos.txt. Requiere Java 21.

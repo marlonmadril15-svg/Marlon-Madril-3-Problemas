@@ -1,0 +1,4 @@
+EJERCICIO 3 - RESERVAS DE CANCHA
+
+Importa esta carpeta como proyecto existente de Eclipse y ejecuta control.Main.
+Las reservas se guardan en datos/reservas.txt. Requiere Java 21.

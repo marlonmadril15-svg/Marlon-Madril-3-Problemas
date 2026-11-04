@@ -1,0 +1,2 @@
+PL-01;Tomate;Hortaliza;3
+PL-02;Albahaca;Aromatica;5
